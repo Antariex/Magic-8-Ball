@@ -43,3 +43,5 @@ if question == "":
   print("You MUST to ask something!")
 else: 
   print("Magic 8-Ball's answer: " + answer)
+
+#Note: This is a control flow exercise, but is not the best (or a very efficient way) to write the code...
