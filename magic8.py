@@ -1,4 +1,4 @@
-#Magic 8-Ball geme - You need to enter your name and question
+#Magic 8-Ball game - You need to enter your name and question
 
 name = ""
 question = "Will I learn to code?"
