@@ -31,4 +31,4 @@ Joe asks: *Is this real life?*
 <br>
 Magic 8-Ball's answer: *Better not tell you now*
 
-Let’s get started!
+What will you ask?
